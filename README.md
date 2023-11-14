@@ -1,1 +1,1 @@
-# ProyectoIntegradorLogica
+# ProyectoIntegradorIprogramacion
